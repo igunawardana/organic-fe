@@ -5,7 +5,7 @@ const Ninjas = ({ ninjas }) => {
         <div className="ninja-list" >
             {
                 ninjas.map(ninja => {
-                    return ninja.age > 15 ?
+                    return ninja.age > 2 ?
                         (
                             <div className="ninja" key={ninja.id} >
                                 <div>Name: {ninja.name}</div>
