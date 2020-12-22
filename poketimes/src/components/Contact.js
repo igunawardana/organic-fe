@@ -6,8 +6,8 @@ const Contact = (props) => {
     // }, 2000)
 
     return (
-        <div class="container">
-            <h4 class="center">Contact</h4>
+        <div className="container">
+            <h4 className="center">Contact</h4>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. At repudiandae voluptatem error vero enim quos magni nemo explicabo sunt corrupti, accusamus deleniti. Commodi possimus quae quidem ad cum! Ut, dolores!</p>
         </div>
     )
