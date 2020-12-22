@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Pre Requistes
+
+1. npm install react-router-dom --save
+
+2. add below to index.html just above the title
+
+`<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">`
+
+source: https://github.com/igunawardana/organic-fe/blob/tutorials/poketimes/public/index.html
+
+3. a
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
