@@ -3,6 +3,8 @@
 1. npm install react-router-dom --save
 
 2. add below to index.html just above the title
+   
+3. npm install --save react-bootstrap bootstrap
 
 `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">`
 
