@@ -5,6 +5,12 @@
 2. add below to index.html just above the title
    
 3. npm install --save react-bootstrap bootstrap
+   
+4. npm install @material-ui/core
+   
+5. npm install @material-ui/icons
+   
+6. npm install --save react-swipeable-views
 
 `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">`
 

@@ -1,10 +1,11 @@
 import React from 'react'
+import SettingsTabComponent from './SettingsTabComponent';
 
 const Settings = () => {
 
     return (
         <div className="container" >
-            <h4 class="center">Settings</h4>
+            {SettingsTabComponent()}
         </div>
     )
 }

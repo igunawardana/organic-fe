@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Profile from './components/Profile';
 import Home from './components/Home';
 import Products from './components/Products';
-import Settings from './components/Settings';
+import Settings from './components/settings/Settings';
 import Market from './components/Market';
 class App extends Component {
 
